@@ -3,6 +3,7 @@
 
 Will be translated later
 
+# French
 
 ### Objectives
 
@@ -35,7 +36,7 @@ Chacune des directions ci-dessus suivies d'un nombre permet d'avancer de
 plusieurs cases (par exemple E3 pour avancer de trois cases vers l'est).
  
 
-###Affichage du labyrinthe
+### Affichage du labyrinthe
 
 Le labyrinthe est vu du dessus. Un symbole représente un obstacle ou votre 
 propre robot. Vous pouvez vous référez à l'exemple ci-dessous pour voir 
@@ -47,7 +48,7 @@ les murs des portes de sorties.
 
  
 
-###Fonctionnalités du jeu
+### Fonctionnalités du jeu
 
 Le jeu doit :
 
@@ -59,7 +60,7 @@ sera donc facile d'ajouter, supprimer ou modifier des cartes. Vous pourrez
 télécharger les cartes par défaut plus bas.
  
 
-###Au lancement du programme
+### Au lancement du programme
 
 La première chose à faire est de trouver les cartes existantes, conservées 
 dans nos fichiers txt, de les charger et de vérifier qu'une partie n'était pas 
@@ -73,7 +74,7 @@ robot.
 
  
 
-###Vous serez notés sur :
+### Vous serez notés sur :
 
 - Le fait d'arriver à développer les fonctionnalités de l'exercice : si l'on 
 peut lancer votre programme et qu'il tourne sans modification, vous aurez la 
@@ -100,3 +101,16 @@ affichage graphique avec l'une des bibliothèques existantes, etc. Si votre
 code est bien hiérarchisé, l'amélioration est généralement plus simple. Notez 
 bien que vous n'avez pas à coder ces fonctionnalités, juste à garder en tête 
 que votre programme pourrait évoluer par la suite.
+
+# English
+
+### Objectives
+
+Your mission, if you accept it, is to create and develop a game that will 
+allow you to control a robot in a labyrinth. This game must be develop in
+console environment, for convenient reasons. It will be called...Roboc.
+
+This game is a labyrinth made with obstacles: walls are simply here to slow 
+you down, gates can be crossed and at least one exit point to exit the 
+labyrinth. If the robot arrive on one of these points, the game is over,
+player win the game.
