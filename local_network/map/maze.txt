@@ -1,0 +1,14 @@
+0000000000000000000000
+U O   O    O   O     0
+0   O OOOO O O O O   0
+0OOOO . O  O O O O   0
+0 O . O .  O O O O   0
+0 O OOO O  O O O O   0
+0 O   O O    O . O   0
+0   O . OOOOOOOOOO OO0
+0OOOO O O       O    0
+0 O   O O O     O    0
+0   O .   O     .    0
+0OOOO.O O.OOOOOOO.OOO0
+0       O      O     0
+0000000000000000000000
